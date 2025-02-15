@@ -15,10 +15,12 @@ This is a deep learning-based web application designed to classify potato leaf d
    git clone https://github.com/srivishnu5279/Potato_Disease_Classfication/tree/main
    cd Potato_Disease_Classification
 2. **Install dependencies:**
+  ```sh
    pip install -r requirements.txt
-3. **Run the application:**
+4. **Run the application:**
+   ```sh
    python app.py
-4. **Open in browser:**
+5. **Open in browser:**
     Navigate to http://127.0.0.1:5000/ to upload an image and get predictions.
    
 ## 🛠 Technologies Used**
